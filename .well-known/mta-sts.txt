@@ -1,0 +1,10 @@
+version: STSv1
+mode: testing
+mx: aspmx2.googlemail.com
+mx: aspmx.l.google.com
+mx: aspmx4.googlemail.com
+mx: aspmx3.googlemail.com
+mx: alt1.aspmx.l.google.com
+mx: aspmx5.googlemail.com
+mx: alt2.aspmx.l.google.com
+max_age: 604800
